@@ -1,6 +1,6 @@
 {
   "name": "@zcong/lazy-aon",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "lazy and-or-not",
   "main": "./dist/index.js",
   "files": [
